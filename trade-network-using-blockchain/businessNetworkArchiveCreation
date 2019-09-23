@@ -1,0 +1,2 @@
+yo hyperledger-composer:businessnetwork
+
