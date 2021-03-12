@@ -31,9 +31,6 @@ yo hyperledger-composer
 you can then use REST API to call and query the data ledger.
 you can also add more number accounts to the network by modifying the cto file. 
 
-Please do give me a feedback of your experience. 
-
-
 
 
 
