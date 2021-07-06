@@ -1,4 +1,4 @@
-# sams-trade-network
+# trade-network-using-blockchain
 Sample Trade network created using block chain by using Hyper Ledger Composer on Hyper Ledger Fabric.
 
 To see the network on your local computer, try below:
